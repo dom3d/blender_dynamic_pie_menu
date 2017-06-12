@@ -16,7 +16,7 @@ On OSX:
 
 
 # Status
-This is not production code. This is an experiment to see if it can be done to help casual blender noobs with backgrounds in 3ds max or the like to be able to jump into Blender on a casual basis without the steep learning curve that Blender still has.
+This is unfinished and not production code. This is an experiment to see if it can be done to help casual blender noobs with backgrounds in 3ds max or the like to be able to jump into Blender on a casual basis without the steep learning curve that Blender still has.
 
 The pie menu was not really programmed to offer what I was am trying to achieve. I haven't figured out a good way to handle custom activation state highlights expect by using custom images.
 
